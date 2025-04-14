@@ -1,7 +1,6 @@
 # ubuntu-backgrounds-jammy
 
 ![AUR version](https://img.shields.io/aur/version/ubuntu-backgrounds-jammy?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/ubuntu-backgrounds-jammy-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/ubuntu-backgrounds-jammy-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/ubuntu-backgrounds-jammy)
 
 This repository contains build files to build the Arch Linux package `ubuntu-backgrounds-jammy`. Instead of building the
